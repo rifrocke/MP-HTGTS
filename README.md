@@ -12,4 +12,5 @@ Note, it is possible to filtered out the switched reads in step 1 by modifying t
 Ref:
 
 Hu J, Meyers RM, Dong J, Panchakshari RA, Alt FW, Frock RL. Detecting DNA double-stranded breaks in mammalian genomes by linear amplification-mediated high-throughput genome-wide translocation sequencing. Nat Protoc. 2016 May; 11(5): 853-71.
+
 Liang Z, Kumar V, Le Bouteiller M, et al. Ku70 suppresses alternative end joining in G1-arrested progenitor B cells. Proc Natl Acad Sci U S A. 2021 May; 118(21): e2103630118.
