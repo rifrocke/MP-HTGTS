@@ -42,7 +42,10 @@ python tlx_unique_total_count.py -i libs/
 (input folder of full .tlx files - gunzip first)
 
 
-Ref:
+LAM-HTGTS: https://robinmeyers.github.io/transloc_pipeline/
+JoinT-seq: https://github.com/marielebouteiller/JoinT-seq
+
+Refs:
 
 Hu J, Meyers RM, Dong J, Panchakshari RA, Alt FW, Frock RL. Detecting DNA double-stranded breaks in mammalian genomes by linear amplification-mediated high-throughput genome-wide translocation sequencing. Nat Protoc. 2016 May; 11(5): 853-71.
 
