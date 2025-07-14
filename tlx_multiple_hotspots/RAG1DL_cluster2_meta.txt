@@ -1,0 +1,4 @@
+hotspot_name	chr	start	end
+RAG1D	chr11	36594480	36594690
+RAG1L	chr11	36595557	36595767
+
