@@ -43,6 +43,7 @@ python tlx_unique_total_count.py -i libs/
 
 LAM-HTGTS: https://robinmeyers.github.io/transloc_pipeline/  
 JoinT-seq: https://github.com/marielebouteiller/JoinT-seq  
+Rejoin-seq: https://github.com/rifrocke/Dual_barcode_DDR_capture
 
 Refs:
 
